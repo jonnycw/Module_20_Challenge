@@ -11,7 +11,7 @@ The code was written using Solidity version 0.5.0 in Remix IDE.
 1. Use the setAccounts function to define the authorized Ethereum address that will be able to withdraw funds from your contract.
 <img width="1503" alt="seAccounts_function" src="https://github.com/jonnycw/Module_20_Challenge/assets/120538932/761e72e5-bbca-4145-864e-e003117496a3">
 
-2. Test the deposit functionality of your smart contract by sending the following amounts of ether: 2 ETH, 3 ETh, 4 ETH
+2. Test the deposit functionality of your smart contract by sending the following amounts of ether: 2 ETH, 3 ETH, 4 ETH
 
 Send 2 ETH
 
